@@ -120,3 +120,7 @@ C:\Proyectos_code\.net\generacionDeInformes\generacionDeInformes\obj\Debug\net10
 C:\Proyectos_code\.net\generacionDeInformes\generacionDeInformes\obj\Debug\net10.0\generacionDeInformes.pdb
 C:\Proyectos_code\.net\generacionDeInformes\generacionDeInformes\obj\Debug\net10.0\generacionDeInformes.genruntimeconfig.cache
 C:\Proyectos_code\.net\generacionDeInformes\generacionDeInformes\obj\Debug\net10.0\ref\generacionDeInformes.dll
+C:\Proyectos_code\.net\generacionDeInformes\generacionDeInformes\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Proyectos_code\.net\generacionDeInformes\generacionDeInformes\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Proyectos_code\.net\generacionDeInformes\generacionDeInformes\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Proyectos_code\.net\generacionDeInformes\generacionDeInformes\obj\Debug\net10.0\generacionDeInformes.sourcelink.json
